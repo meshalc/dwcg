@@ -1,0 +1,121 @@
+<svg id="pattern-p-1" xmlns="http://www.w3.org/2000/svg" viewBox="279.91 63.99 664 664">
+  <style>
+    @keyframes p1-scale {
+      0%, 100% {
+        transform: none;
+        width: 300px
+        
+      }
+      70% {
+        transform: scaleX(.13);
+      }
+    }
+    
+    #pattern-p-1 #col-1 line,
+    #pattern-p-1 #col-2 line,
+    #pattern-p-1 #col-3 line,
+    #pattern-p-1 #col-4 line,
+    #pattern-p-1 #col-5 line,
+    #pattern-p-1 #col-6 line,
+    #pattern-p-1 #col-7 line,
+    #pattern-p-1 #col-8 line {
+      animation: p1-scale 3s ease-in-out both infinite;
+    }
+  </style>
+  <g id="col-1">
+    <line x1="324" y1="684.03" x2="367.9" y2="684.03" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 345.95px 684.03px; animation-delay: -5s;"></line>
+    <line x1="324" y1="620.03" x2="367.9" y2="620.03" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 345.95px 620.03px; animation-delay: -4.67s;"></line>
+    <line x1="324" y1="556.03" x2="367.9" y2="556.03" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 345.95px 556.03px; animation-delay: -4.34s;"></line>
+    <line x1="324" y1="492.02" x2="367.9" y2="492.02" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 345.95px 492.02px; animation-delay: -4.01s;"></line>
+    <line x1="324" y1="428.02" x2="367.9" y2="428.02" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 345.95px 428.02px; animation-delay: -3.68s;"></line>
+    <line x1="324" y1="364.02" x2="367.9" y2="364.02" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 345.95px 364.02px; animation-delay: -3.35s;"></line>
+    <line x1="324" y1="300.01" x2="367.9" y2="300.01" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 345.95px 300.01px; animation-delay: -3.02s;"></line>
+    <line x1="324" y1="236.01" x2="367.9" y2="236.01" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 345.95px 236.01px; animation-delay: -2.69s;"></line>
+    <line x1="324" y1="172" x2="367.9" y2="172" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 345.95px 172px; animation-delay: -2.36s;"></line>
+    <line x1="324" y1="108" x2="367.9" y2="108" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 345.95px 108px; animation-delay: -2.03s;"></line>
+  </g>
+  <g id="col-2">
+    <line x1="400" y1="684.03" x2="443.9" y2="684.03" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 421.95px 684.03px; animation-delay: -4.7s;"></line>
+    <line x1="400" y1="620.03" x2="443.9" y2="620.03" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 421.95px 620.03px; animation-delay: -4.37s;"></line>
+    <line x1="400" y1="556.03" x2="443.9" y2="556.03" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 421.95px 556.03px; animation-delay: -4.04s;"></line>
+    <line x1="400" y1="492.02" x2="443.9" y2="492.02" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 421.95px 492.02px; animation-delay: -3.71s;"></line>
+    <line x1="400" y1="428.02" x2="443.9" y2="428.02" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 421.95px 428.02px; animation-delay: -3.38s;"></line>
+    <line x1="400" y1="364.02" x2="443.9" y2="364.02" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 421.95px 364.02px; animation-delay: -3.05s;"></line>
+    <line x1="400" y1="300.01" x2="443.9" y2="300.01" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 421.95px 300.01px; animation-delay: -2.72s;"></line>
+    <line x1="400" y1="236.01" x2="443.9" y2="236.01" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 421.95px 236.01px; animation-delay: -2.39s;"></line>
+    <line x1="400" y1="172" x2="443.9" y2="172" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 421.95px 172px; animation-delay: -2.06s;"></line>
+    <line x1="400" y1="108" x2="443.9" y2="108" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 421.95px 108px; animation-delay: -1.73s;"></line>
+  </g>
+  <g id="col-3">
+    <line x1="475.99" y1="684.03" x2="519.89" y2="684.03" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 497.94px 684.03px; animation-delay: -4.4s;"></line>
+    <line x1="475.99" y1="620.03" x2="519.89" y2="620.03" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 497.94px 620.03px; animation-delay: -4.07s;"></line>
+    <line x1="475.99" y1="556.03" x2="519.89" y2="556.03" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 497.94px 556.03px; animation-delay: -3.74s;"></line>
+    <line x1="475.99" y1="492.02" x2="519.89" y2="492.02" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 497.94px 492.02px; animation-delay: -3.41s;"></line>
+    <line x1="475.99" y1="428.02" x2="519.89" y2="428.02" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 497.94px 428.02px; animation-delay: -3.08s;"></line>
+    <line x1="475.99" y1="364.02" x2="519.89" y2="364.02" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 497.94px 364.02px; animation-delay: -2.75s;"></line>
+    <line x1="475.99" y1="300.01" x2="519.89" y2="300.01" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 497.94px 300.01px; animation-delay: -2.42s;"></line>
+    <line x1="475.99" y1="236.01" x2="519.89" y2="236.01" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 497.94px 236.01px; animation-delay: -2.09s;"></line>
+    <line x1="475.99" y1="172" x2="519.89" y2="172" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 497.94px 172px; animation-delay: -1.76s;"></line>
+    <line x1="475.99" y1="108" x2="519.89" y2="108" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 497.94px 108px; animation-delay: -1.43s;"></line>
+  </g>
+  <g id="col-4">
+    <line x1="551.99" y1="684.03" x2="595.89" y2="684.03" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 573.94px 684.03px; animation-delay: -4.1s;"></line>
+    <line x1="551.99" y1="620.03" x2="595.89" y2="620.03" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 573.94px 620.03px; animation-delay: -3.77s;"></line>
+    <line x1="551.99" y1="556.03" x2="595.89" y2="556.03" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 573.94px 556.03px; animation-delay: -3.44s;"></line>
+    <line x1="551.99" y1="492.02" x2="595.89" y2="492.02" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 573.94px 492.02px; animation-delay: -3.11s;"></line>
+    <line x1="551.99" y1="428.02" x2="595.89" y2="428.02" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 573.94px 428.02px; animation-delay: -2.78s;"></line>
+    <line x1="551.99" y1="364.02" x2="595.89" y2="364.02" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 573.94px 364.02px; animation-delay: -2.45s;"></line>
+    <line x1="551.99" y1="300.01" x2="595.89" y2="300.01" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 573.94px 300.01px; animation-delay: -2.12s;"></line>
+    <line x1="551.99" y1="236.01" x2="595.89" y2="236.01" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 573.94px 236.01px; animation-delay: -1.79s;"></line>
+    <line x1="551.99" y1="172" x2="595.89" y2="172" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 573.94px 172px; animation-delay: -1.46s;"></line>
+    <line x1="551.99" y1="108" x2="595.89" y2="108" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 573.94px 108px; animation-delay: -1.13s;"></line>
+  </g>
+  <g id="col-5">
+    <line x1="627.99" y1="684.03" x2="671.89" y2="684.03" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 649.94px 684.03px; animation-delay: -3.8s;"></line>
+    <line x1="627.99" y1="620.03" x2="671.89" y2="620.03" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 649.94px 620.03px; animation-delay: -3.47s;"></line>
+    <line x1="627.99" y1="556.03" x2="671.89" y2="556.03" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 649.94px 556.03px; animation-delay: -3.14s;"></line>
+    <line x1="627.99" y1="492.02" x2="671.89" y2="492.02" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 649.94px 492.02px; animation-delay: -2.81s;"></line>
+    <line x1="627.99" y1="428.02" x2="671.89" y2="428.02" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 649.94px 428.02px; animation-delay: -2.48s;"></line>
+    <line x1="627.99" y1="364.02" x2="671.89" y2="364.02" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 649.94px 364.02px; animation-delay: -2.15s;"></line>
+    <line x1="627.99" y1="300.01" x2="671.89" y2="300.01" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 649.94px 300.01px; animation-delay: -1.82s;"></line>
+    <line x1="627.99" y1="236.01" x2="671.89" y2="236.01" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 649.94px 236.01px; animation-delay: -1.49s;"></line>
+    <line x1="627.99" y1="172" x2="671.89" y2="172" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 649.94px 172px; animation-delay: -1.16s;"></line>
+    <line x1="627.99" y1="108" x2="671.89" y2="108" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 649.94px 108px; animation-delay: -0.83s;"></line>
+  </g>
+  <g id="col-6">
+    <line x1="703.99" y1="684.03" x2="747.89" y2="684.03" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 725.94px 684.03px; animation-delay: -3.5s;"></line>
+    <line x1="703.99" y1="620.03" x2="747.89" y2="620.03" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 725.94px 620.03px; animation-delay: -3.17s;"></line>
+    <line x1="703.99" y1="556.03" x2="747.89" y2="556.03" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 725.94px 556.03px; animation-delay: -2.84s;"></line>
+    <line x1="703.99" y1="492.02" x2="747.89" y2="492.02" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 725.94px 492.02px; animation-delay: -2.51s;"></line>
+    <line x1="703.99" y1="428.02" x2="747.89" y2="428.02" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 725.94px 428.02px; animation-delay: -2.18s;"></line>
+    <line x1="703.99" y1="364.02" x2="747.89" y2="364.02" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 725.94px 364.02px; animation-delay: -1.85s;"></line>
+    <line x1="703.99" y1="300.01" x2="747.89" y2="300.01" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 725.94px 300.01px; animation-delay: -1.52s;"></line>
+    <line x1="703.99" y1="236.01" x2="747.89" y2="236.01" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 725.94px 236.01px; animation-delay: -1.19s;"></line>
+    <line x1="703.99" y1="172" x2="747.89" y2="172" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 725.94px 172px; animation-delay: -0.86s;"></line>
+    <line x1="703.99" y1="108" x2="747.89" y2="108" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 725.94px 108px; animation-delay: -0.53s;"></line>
+  </g>
+  <g id="col-7">
+    <line x1="779.98" y1="684.03" x2="823.88" y2="684.03" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 801.93px 684.03px; animation-delay: -3.2s;"></line>
+    <line x1="779.98" y1="620.03" x2="823.88" y2="620.03" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 801.93px 620.03px; animation-delay: -2.87s;"></line>
+    <line x1="779.98" y1="556.03" x2="823.88" y2="556.03" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 801.93px 556.03px; animation-delay: -2.54s;"></line>
+    <line x1="779.98" y1="492.02" x2="823.88" y2="492.02" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 801.93px 492.02px; animation-delay: -2.21s;"></line>
+    <line x1="779.98" y1="428.02" x2="823.88" y2="428.02" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 801.93px 428.02px; animation-delay: -1.88s;"></line>
+    <line x1="779.98" y1="364.02" x2="823.88" y2="364.02" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 801.93px 364.02px; animation-delay: -1.55s;"></line>
+    <line x1="779.98" y1="300.01" x2="823.88" y2="300.01" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 801.93px 300.01px; animation-delay: -1.22s;"></line>
+    <line x1="779.98" y1="236.01" x2="823.88" y2="236.01" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 801.93px 236.01px; animation-delay: -0.89s;"></line>
+    <line x1="779.98" y1="172" x2="823.88" y2="172" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 801.93px 172px; animation-delay: -0.56s;"></line>
+    <line x1="779.98" y1="108" x2="823.88" y2="108" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 801.93px 108px; animation-delay: -0.23s;"></line>
+  </g>
+  <g id="col-8">
+    <line x1="855.98" y1="684.03" x2="899.88" y2="684.03" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 877.93px 684.03px; animation-delay: -2.9s;"></line>
+    <line x1="855.98" y1="620.03" x2="899.88" y2="620.03" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 877.93px 620.03px; animation-delay: -2.57s;"></line>
+    <line x1="855.98" y1="556.03" x2="899.88" y2="556.03" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 877.93px 556.03px; animation-delay: -2.24s;"></line>
+    <line x1="855.98" y1="492.02" x2="899.88" y2="492.02" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 877.93px 492.02px; animation-delay: -1.91s;"></line>
+    <line x1="855.98" y1="428.02" x2="899.88" y2="428.02" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 877.93px 428.02px; animation-delay: -1.58s;"></line>
+    <line x1="855.98" y1="364.02" x2="899.88" y2="364.02" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 877.93px 364.02px; animation-delay: -1.25s;"></line>
+    <line x1="855.98" y1="300.01" x2="899.88" y2="300.01" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 877.93px 300.01px; animation-delay: -0.92s;"></line>
+    <line x1="855.98" y1="236.01" x2="899.88" y2="236.01" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 877.93px 236.01px; animation-delay: -0.59s;"></line>
+    <line x1="855.98" y1="172" x2="899.88" y2="172" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 877.93px 172px; animation-delay: -0.26s;"></line>
+    <line x1="855.98" y1="108" x2="899.88" y2="108" fill="none" stroke="#37BE43" stroke-miterlimit="10" stroke-width="5" style="transform-origin: 877.93px 108px; animation-delay: 0.07s;"></line>
+  </g>
+</svg>
