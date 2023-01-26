@@ -3651,7 +3651,7 @@ h2.home-header {
 
     .heading-text-container.is--home {
         display: block;
-        padding-top: 60px;
+        padding-top: 30px;
     }
 
     .animation-on-off {
@@ -3782,7 +3782,7 @@ h2.home-header {
 
     .heading-text-container.is--home {
         display: block;
-        padding-top: 30px;
+        padding-top: 0;
     }
 
     .about-container-white {
