@@ -3873,7 +3873,7 @@ h2.home-header {
     }
 
     .mobile-social {
-        position: absolute;
+        /* position: absolute; */
         left: 0%;
         top: auto;
         right: 0%;
