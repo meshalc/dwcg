@@ -10,7 +10,10 @@ html {
 }
 
 body {
-    margin: 0
+    margin: 0;
+    background: radial-gradient(rgba(205, 205, 205, 0.688) 1.5px,transparent 0);
+    background-size: 30px 30px;
+    
 }
 
 article,
@@ -2715,15 +2718,15 @@ blockquote {
     -webkit-transition: color 200ms ease;
     transition: color 200ms ease;
     font-family: 'ABC Favorit Mono', sans-serif;
-    color: #fff;
+    color: #37BE43;
     font-size: 1rem;
-    font-weight: 300;
+    font-weight: 400;
     text-decoration: none;
     text-transform: uppercase;
 }
 
 .nav-item:hover {
-    color: #37BE43;
+    color: #374151;
 }
 
 .nav-item.w--current {
@@ -2839,7 +2842,7 @@ blockquote {
 }
 
 .main-left {
-    width: 50%;
+    width: 100%;
 }
 
 .main-left.is--ideas {
@@ -2870,8 +2873,6 @@ blockquote {
     z-index: 2;
     width: 50%;
     height: 100vh;
-    background-color:  #374151;
-    ;
 }
 
 .main-right.is--ideas {
@@ -2963,7 +2964,8 @@ blockquote {
 
 .image-2 {
     width: 100%;
-    height: 100%;
+    /* height: 100%; */
+    opacity: 0.5;
 }
 
 .animation-on-off {
@@ -2999,7 +3001,7 @@ blockquote {
 .image-3 {
     position: absolute;
     left: 0%;
-    top: 0%;
+    top: 10%;
     right: 0%;
     bottom: 0%;
     width: 100%;
@@ -3012,8 +3014,24 @@ blockquote {
 }
 
 .home-header {
-    font-size: 70px;
-    line-height: 75px;
+    font-size: 48px;
+    line-height: 56px;
+    margin-top: 64px;
+}
+
+h2.home-header {
+    font-weight: 300;
+}
+
+h1.home-header {
+    font-size: 72px;
+    line-height: 84px;
+}
+
+h2.home-header {
+    font-size: 42px;
+    line-height: 56px;
+    margin-top: 0;
 }
 
 .big-button {
@@ -3031,12 +3049,12 @@ blockquote {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    border: 2px solid #374151;
+    border: 2px solid #37BE43;
     background-color: transparent;
     font-family: 'ABC Favorit', sans-serif;
-    color: #374151;
+    color: #37BE43;
     font-size: 15px;
-    font-weight: 300;
+    font-weight: 400;
     text-transform: uppercase;
 }
 
@@ -3045,7 +3063,7 @@ blockquote {
 }
 
 .big-button.is--bone:hover {
-    color: #37BE43;
+    color: #374151;
 }
 
 .button-container {
@@ -3097,7 +3115,6 @@ blockquote {
 
 .left-container-bone {
     padding: 30px 60px 70px;
-    background-color: #e3ded9;
 }
 
 .left-container-bone.disclosures {
@@ -3121,7 +3138,6 @@ blockquote {
     -webkit-justify-content: flex-start;
     -ms-flex-pack: start;
     justify-content: flex-start;
-    background-color: #fff;
 }
 
 .left-container-white {
@@ -3792,6 +3808,19 @@ blockquote {
         line-height: 1.2;
     }
 
+    h1.home-header {
+        font-size: 32px;
+        line-height: 1.2;
+        font-weight: 400;
+    }
+
+    h2.home-header {
+        font-size: 28px;
+        line-height: 36px;
+        font-weight: 300;
+        margin-top: 20px;
+    }
+
     .big-button {
         width: 250px;
     }
@@ -4308,3 +4337,98 @@ a.mobile-nav-logo.w-inline-block {
 a.mobile-social-link.w-inline-block img {
     width: 32px;
 }
+
+.social {
+    padding-bottom: 20px;
+}
+
+.animater-box {
+    width: 100%;
+    height: 100%;
+    padding: 50px;
+    /* background: #37BE43;
+    opacity: .3; */
+    display: flex;
+}
+
+.cube {
+    width: 5%;
+    height: 5%;
+    background:#37BE43;
+    opacity: 0.8;
+    margin: 5%;
+    animation : roundaction 7s infinite;
+    position: fixed;
+}
+
+@keyframes roundaction {
+    0% { left: 50%;
+         top: 10%; 
+    }
+    50% { 
+        left: 80%;
+        top: 10%;
+    }
+
+    100% { 
+        left: 50%;
+        top: 10%; 
+    }
+}
+
+@keyframes roundaction2 {
+    0% { left: 60%;
+         bottom: 60%; 
+    }
+    50% { 
+        left: 60%;
+        bottom: 40%;
+    }
+
+    100% { 
+        left: 60%;
+        bottom: 60%; 
+    }
+}
+
+
+@keyframes roundaction3 {
+    0% { left: 70%;
+         bottom: 60%; 
+    }
+    50% { 
+        left: 80%;
+        bottom: 40%;
+    }
+
+    100% { 
+        left: 70%;
+        bottom: 60%; 
+    }
+}
+
+.cube-row {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    /* justify-content: space-around; */
+}
+
+.cube2 {
+    background: #374151;
+    width: 10%;
+    height: 10%;
+    opacity: 0.8;
+    animation : roundaction2 7s infinite;
+    position: fixed;
+}
+
+.cube3 {
+    background: #37BE43;
+    width: 10%;
+    height: 10%;
+    opacity: 0.8;
+    animation : roundaction3 7s infinite;
+    position: fixed;
+}
+
