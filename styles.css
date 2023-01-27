@@ -2814,6 +2814,10 @@ blockquote {
     width: 100%;
 }
 
+.our-mission p {
+    margin-bottom: 60px;
+}
+
 .paragraph {
     font-family: 'Soehne Leicht';
     font-weight: 400;
