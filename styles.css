@@ -1688,7 +1688,6 @@ img.blogo {
     margin-bottom: 40px;
     margin-left: 30px;
     margin-right: 30px;
-    filter: invert(24%) sepia(31%) saturate(442%) hue-rotate(178deg) brightness(1%) contrast(80%);
     color: #374151;
 }
 
