@@ -4118,6 +4118,18 @@ h2.home-header {
         padding-left: 30px;
     }
 
+    .our-mission-img {
+        display: flex;
+        flex-direction: column;
+        background: white;
+        align-items: center;
+    }
+
+    .our-mission-img img{
+       width: 100px;
+       max-height: 50px;
+    }
+
     .left-bone-social.is--ideas {
         position: relative;
         padding-right: 30px;
