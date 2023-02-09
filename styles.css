@@ -2802,7 +2802,7 @@ blockquote {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    height: 80%;
+    height: 90%;
     padding-top: 0px;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -2861,7 +2861,26 @@ blockquote {
 
 .main-left {
     width: 100%;
+}
 
+.list-container h2 {
+    color: #374151;
+    font-size: 24px;
+}
+
+.list-container h4 {
+    color: #374151;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.agile-del {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.blog-header {
+    padding-top: 50px !important;
 }
 
 .main-left.is--ideas {
@@ -3136,6 +3155,7 @@ h2.home-header {
 .left-container-bone {
     padding: 30px 60px 70px;
 }
+
 
 .left-container-bone.disclosures {
     margin-top: 0px;
