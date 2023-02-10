@@ -3961,7 +3961,8 @@ h2.home-header {
     }
 
     .mobile-social-link {
-        width: 20%;
+        width: 18%;
+        scale: 0.8;
     }
 
     .image-6 {
