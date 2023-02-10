@@ -2801,8 +2801,8 @@ blockquote {
 
 .heading-text-container {
     width: 100%;
-    margin-bottom: 40px;
-    padding-top: 60px;
+    margin-bottom: 20px;
+    padding-top: 20px;
 }
 
 .heading-text-container.is--home {
@@ -2836,7 +2836,7 @@ blockquote {
 
 
 .our-mission p {
-    margin-bottom: 60px;
+    margin-bottom: 30px;
 }
 
 .paragraph {
@@ -3307,6 +3307,8 @@ h2.home-header {
     transition: opacity 200ms ease;
     color: #374151;
     text-decoration: none;
+    margin-top: 20px;
+    margin-bottom: 30px;
 }
 
 .go-back:hover {
@@ -3832,7 +3834,7 @@ h2.home-header {
     .heading-text-container {
         position: relative;
         z-index: 300;
-        padding-top: 140px;
+        padding-top: 20px;
     }
 
     .heading-text-container.is--home {
