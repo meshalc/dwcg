@@ -3862,13 +3862,14 @@ h2.home-header {
     .home-header {
         font-size: 32px;
         line-height: 1.2;
+        margin-top: 0;
     }
 
     h1.home-header {
         font-size: 32px;
         line-height: 1.2;
         font-weight: 400;
-        padding-top: 60px;
+        padding-top: 100px;
     }
 
     h2.home-header {
