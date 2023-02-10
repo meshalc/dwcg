@@ -2730,9 +2730,9 @@ blockquote {
     -webkit-transition: color 200ms ease;
     transition: color 200ms ease;
     font-family: 'ABC Favorit Mono', sans-serif;
-    color: #374151;
+    color: #fff;
     font-size: 1rem;
-    font-weight: 400;
+    font-weight: 100;
     text-decoration: none;
     text-transform: uppercase;
 }
@@ -2911,6 +2911,9 @@ blockquote {
     z-index: 2;
     width: 50%;
     height: 100vh;
+    background: #374151;
+    background:radial-gradient(rgb(97, 96, 96) 1px,#374151 0);
+    background-size: 30px 30px;
 }
 
 .main-right.is--ideas {
@@ -3062,14 +3065,15 @@ h2.home-header {
 }
 
 h1.home-header {
-    font-size: 72px;
-    line-height: 84px;
+    font-size: 56px;
+    line-height: 64px;
 }
 
 h2.home-header {
-    font-size: 42px;
-    line-height: 56px;
+    font-size: 32px;
+    line-height: 46px;
     margin-top: 0;
+    color: #374151;
 }
 
 .big-button {
@@ -4540,3 +4544,24 @@ a.mobile-social-link.w-inline-block img {
         margin-bottom: 10px;
     }
 }
+
+.amin-img {
+    opacity: 1;
+    animation: 10s fadeIn infinite; 
+    margin-top: 30px;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0.8;
+        /* scale: 0.8; */
+    }
+    50% {
+      opacity: 0.2;
+      /* scale: 0.8; */
+    }
+    100% {
+      opacity: 0.8;
+      /* scale: 0.8; */
+    }
+  }
