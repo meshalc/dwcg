@@ -2802,7 +2802,7 @@ blockquote {
 .heading-text-container {
     width: 100%;
     margin-bottom: 20px;
-    padding-top: 20px;
+    padding-top: 60px;
 }
 
 .heading-text-container.is--home {
@@ -3834,7 +3834,7 @@ h2.home-header {
     .heading-text-container {
         position: relative;
         z-index: 300;
-        padding-top: 20px;
+        padding-top: 100px;
     }
 
     .heading-text-container.is--home {
